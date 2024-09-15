@@ -1,0 +1,19 @@
+<!-- res/menu/bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/navigation_product"
+        android:icon="@drawable/ic_product"
+        />
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_cart"
+        />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_user"
+        />
+</menu>

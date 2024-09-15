@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549376258240",
+    "project_id": "tms-creation",
+    "storage_bucket": "tms-creation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549376258240:android:91b4494cbc882bf55c7d25",
+        "android_client_info": {
+          "package_name": "com.my.tmscreation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1hAftPWLXE6dCLkZmdHWM-JM1M8MN68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

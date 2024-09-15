@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TMS Creation</string>
+
+    <string name="err_enter_fname">Please enter first name</string>
+    <string name="err_enter_lname">Please enter Last name</string>
+    <string name="err_enter_email">Please enter Email</string>
+    <string name="err_enter_pwd">Please enter password</string>
+    <string name="err_enter_repwd">Please enter confirm password</string>
+    <string name="err_pwd_repwd_mismatch">Password and confirm password mismatch</string>
+    <string name="err_agree">Please agree with term and condition</string>
+    <string name="success">Register successfull</string>
+
+
+    <string name="appName">MyTMSCreation</string>
+    <string-array name="file_types">
+        <item>PSD</item>
+        <item>AI</item>
+        <item>PDF</item>
+        <item>JPG</item>
+        <item>PNG</item>
+    </string-array>
+
+
+</resources>
